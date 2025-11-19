@@ -1,0 +1,3 @@
+[engine]
+runtime = "python3.11"
+command = "python3 main.py"
